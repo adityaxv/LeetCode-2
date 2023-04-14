@@ -1,1 +1,1 @@
-​
+Inorder traversal is perfect for BST.
