@@ -1,0 +1,1 @@
+still don't know why they are removing last string in vector<string> temp. (temp.pop_back());
